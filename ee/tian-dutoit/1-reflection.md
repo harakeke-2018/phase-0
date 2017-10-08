@@ -6,7 +6,7 @@ Reflection lets you examine what you have actually learnt in a topic, allowing y
 
 What did I do well this week?
 
-I did most of the waffle assignments on Saturday and was happy with how well I stayed focused and avoided distractions.
+I did most of the waffle assignments on Saturday and was happy with how well I stayed focused and avoided distraction.
 
 What could I have done to improve?
 

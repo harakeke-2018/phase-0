@@ -1,32 +1,36 @@
-# Sprint #3
+# Sprint #8
 
-> Tūngia te ururua, kia tupu whakaritorito te tupu o te harakeke<br>
-> *Clear the undergrowth so the new shoots of the flax will grow* <br>  
+> He ora te whakapiri<br>
+> He mate te whakatariri<br>
+> *There is strength in unity*<br>
+> *Defeat in anger*<br>
 
 ## Wow.
-New Zealand's very own crowdfunding app, [pledgeme](https://www.pledgeme.co.nz/)
+Coding gives you the ability to express information in new ways. Data visualisation is a booming area, often driven by the [JavaScript library D3](http://d3js.org/). Here's a beautiful example exploring [Obama's 2013 budget](http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html). Students have played with D3 during the bootcamp, and alumni in Dev Academy Consulting have used it to present data in this [report for the Reserve Bank of New Zealand](http://annualreport.rbnz.govt.nz/financial-highlights#key-points).
 
 ## Habits
 
 <!-- learn > develop > practice -->
-1. *Reflection*
-2. *Tidy*      
-4. **Play**    
+1. Reflect
+2. Tidy
+3. Play
+5. Persevere
+6. Explore
+6. *Communicate*
+7. *Equinimity*
+8. **Hone**
 
-
-**Play** is the habit of staying curious and creative. To learn challenging concepts and solve the complex problems you'll face, you'll need to fully engage yourself, try new things and **not be afraid of failure**.
-> Play is the highest form of research. — Albert Einstein
 
 ## Concepts
-This sprint, you'll be learning some design skills to ensure you're building something useful with all your awesome new HTML and CSS skills.
+
+We've covered all the concepts you need for bootcamp, and we're happy these have all been exercised in the assignments you've already been given. This sprint you'll be finishing all your assignments, leaving the final sprint 9 free to review and reflect before bootcamp.
 
 Number | Name | Rough estimated time (hrs)*
 --------|-------------------|----------
-1. | [Design](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/design) | 3
-2. | [Frameworks](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/frameworks) | 30 mins
-3. | [Process over product](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/process-over-product) | 15 mins
-4. | [7 rules for creating gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.juh0bpuk3) | 30 mins
-5. | Assignments (see below) | 10
+1. | [Self care](https://github.com/dev-academy-programme/curriculum/tree/master/resources/self-care-ARTICLE/README.md) | 30 min
+2. | [Writing short functions](https://github.com/dev-academy-programme/curriculum/tree/master/resources/js-writing-short-functions-ARTICLE/README.md) | 30 min
+3. | Assignments | 19
+
 
 ## Assignments and resources
 Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**

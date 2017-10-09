@@ -50,15 +50,15 @@ Number | Name | Estimated time (hrs)*
 7. | Assignments (see below) | 5
 
 ## Assignments and resources
-Each week you have a number of assignments to complete. Assignments are located in your cohort's waffle board and assigned to you. **You can filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGithubUserName**
+Each week you have a number of assignments to complete. Assignments are located in your cohort's waffle board and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGithubUserName**
 <br>
-You will need to replace 'cohort-year' and 'GithubUserName', for example:<br> `https://waffle.io/kakapo-2016/kakapo-2016?assigned=josephquested`
+You will need to replace 'cohort-year' and 'GithubUserName', for example:<br> `https://waffle.io/kakapo-2016/kakapo-2016?assigned=anahera`
 
 We provide you with curated material that our teachers have written, and/or amazing resources we've found on the web. _Don't repeat yourself_ (DRY) is a principle of software development, aimed at reducing repetition of information. We apply software principles to our education model in many regards, including _agile_ course-ware and DRY resources.
 
 In most cases, if you feel confident about the weekly concepts, you can skip straight to the assignments. **Note however that feeling confident isn't the same as believing you can pass the assignment. Feeling confident is about feeling comfortable with the technology. For example, you could use the technology without using a step by step tutorial, and you could confidently describe to someone the features, uses, and examples of that technology/concept**
 
-Assignments are due each Sunday at 11.59 PM. If you are unable to complete an assignment by the due date, please contact your Phase 0 adviser and let them know. In our experience, falling behind on assignments puts you into danger zone and significantly reduces your chances of making it through to bootcamp.
+Assignments are due each Sunday at 11.59 PM. **However, an assignment grace of two applies**. If you are unable to complete an assignment by the due date, that is ok as long as there are no more than two assignments outstanding at any one time. In our experience, being any further behind puts you into danger zone and significantly reduces your chances of making it through to bootcamp. If you are going to exceed the two assignment grace, then please contact your facilitator immediately.
 
 **We require 100% of the assignments to be completed by the end of Phase 0.** If you have incomplete assignments, we will likely ask you to roll back into another cohort to finish your assignments before you join a bootcamp. The deeper understanding, skills and habits you will learn during the assignments are essential for both bootcamp and your career as a web developer.
 
@@ -67,11 +67,16 @@ As part of the assignments, you will be required to complete a weekly feedback f
 ## Next steps
 1. Read the concepts and their respective capabilities
 2. Check out your assignments on the waffle board
-3. Dive into the resources and develop your capabilities (linked from within the concepts)
-4. Complete the assignments
+3. Complete the assignments!
+4. **(Optional)** When convenient, Dive into the resources to develop your capabilities (linked from within the concepts)
 
 ## Handing in your work
 - Check off all tasks within the assignments in Waffle.io as you complete them
-- Move each of your assignments to the "Submitted to EDA" list in Waffle.io as you complete them
-- Complete all tasks and have assignments ready for review by midnight Sunday
-- Email your facilitator if your assignments are going to be late
+- Move each of your assignments to the "Done" column in Waffle.io as you complete them
+- Make sure you post a link to your completed work in the comments of the waffle ticket!
+
+## Blocked
+- If you find yourself blocked on a task, add a comment describing the error / problems you are having with the specific task, and move it to the "Blocked" column on Waffle.io
+- Send your facilitator a message on slack if you don't hear from them within a day or so
+- Move on to another task if possible, rather than waiting and not achieving anything
+- Ask for help in your cohorts slack channel, someone will surely be willing to help you out!

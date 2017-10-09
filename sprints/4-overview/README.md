@@ -10,10 +10,10 @@ and maybe this [gif depicting a common CSS experience](http://imgur.com/gallery/
 ## Habits
 
 <!-- learn > develop > practice -->
-1. Reflection 
+1. Reflection
 2. *Tidy*      
 3. *Play*    
-4. **Perservere** 
+4. **Perservere**
 
 JavaScript is hard. You'll need perserverence to keep working your way through unfamiliar territory, strange errors and tricky concepts. Keep calm and carry on - it'll help both you and those you're working with.
 
@@ -32,7 +32,7 @@ Number | Name | Rough estimated time (hrs)*
 1. | [Linking HTML, CSS and Javascript](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/linking-html-css-js) | 15 mins
 2. | [Problem Solving](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/problem-solving) | 30 mins
 3. | [Pseudocode](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/pseudocode) | 30 mins
-4. | [Reading Documentation](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/reading-documentation) | 15 mins 
+4. | [Reading Documentation](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/reading-documentation) | 15 mins
 5. | Assignments (see below) | 20 hours
 
 ## Assignments and resources
@@ -44,11 +44,16 @@ In some cases, if you feel confident about the weekly concepts, you can skip str
 ## Next steps
 1. Read the concepts and their respective capabilities
 2. Check out your assignments on the waffle board
-3. Dive into the resources and develop your capabilities (linked from within the concepts)
-4. Complete the assignments
+3. Complete the assignments!
+4. **(Optional)** When convenient, Dive into the resources to develop your capabilities (linked from within the concepts)
 
 ## Handing in your work
 - Check off all tasks within the assignments in Waffle.io as you complete them
-- Move each of your assignments to the "Review" list in Waffle.io as you complete them
-- Complete all tasks and have assignments ready for review by midnight Sunday
-- Email your facilitator if you might be exceeding the assignment grace limit.
+- Move each of your assignments to the "Done" column in Waffle.io as you complete them
+- Make sure you post a link to your completed work in the comments of the waffle ticket!
+
+## Blocked
+- If you find yourself blocked on a task, add a comment describing the error / problems you are having with the specific task, and move it to the "Blocked" column on Waffle.io
+- Send your facilitator a message on slack if you don't hear from them within a day or so
+- Move on to another task if possible, rather than waiting and not achieving anything
+- Ask for help in your cohorts slack channel, someone will surely be willing to help you out!

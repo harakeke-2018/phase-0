@@ -1,32 +1,37 @@
-# Sprint #3
+# Sprint #7
 
-> Tūngia te ururua, kia tupu whakaritorito te tupu o te harakeke<br>
-> *Clear the undergrowth so the new shoots of the flax will grow* <br>  
+> He ora te whakapiri<br>
+> He mate te whakatariri<br>
+> *There is strength in unity*<br>
+> *Defeat in anger*<br>
 
 ## Wow.
-New Zealand's very own crowdfunding app, [pledgeme](https://www.pledgeme.co.nz/)
+[Loomio](https://www.loomio.org/) was built here in Wellington by the Enspiral Network. The idea came from non-coders, who quickly leveled up their technical skills to build their dream platform.
 
 ## Habits
 
 <!-- learn > develop > practice -->
-1. *Reflection*
-2. *Tidy*      
-4. **Play**    
+1. Reflect
+2. Tidy
+3. Play
+5. Persevere
+6. *Explore*
+6. *Communicate*
+7. **Equanimity**
 
-
-**Play** is the habit of staying curious and creative. To learn challenging concepts and solve the complex problems you'll face, you'll need to fully engage yourself, try new things and **not be afraid of failure**.
-> Play is the highest form of research. — Albert Einstein
+>Equanimity (Latin: æquanimitas having an even mind; aequus even animus mind/soul) is a state of psychological stability and composure which is undisturbed by experience of or exposure to emotions, pain, or other phenomena that may cause others to lose the balance of their mind. - Wikipedia
 
 ## Concepts
-This sprint, you'll be learning some design skills to ensure you're building something useful with all your awesome new HTML and CSS skills.
 
 Number | Name | Rough estimated time (hrs)*
 --------|-------------------|----------
-1. | [Design](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/design) | 3
-2. | [Frameworks](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/frameworks) | 30 mins
-3. | [Process over product](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/process-over-product) | 15 mins
-4. | [7 rules for creating gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.juh0bpuk3) | 30 mins
-5. | Assignments (see below) | 10
+1. | [Pairing](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/pairing) | 15 mins
+2. | [Scope](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/js-scope) | 15 mins
+3. | [What is an API? In English, please.](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.wczp0u47w) | 15 mins
+4. | [How to Use jQuery’s $.ajax() Function](https://www.sitepoint.com/use-jquerys-ajax-function/) | 30 mins
+5. | [jQuery Ajax Tutorial #1 - Using AJAX & API's](https://www.youtube.com/watch?v=fEYx8dQr_cQ) (YouTube) | 15 mins
+6. | Assignments (see below) | 15 hours
+
 
 ## Assignments and resources
 Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**

@@ -1,32 +1,37 @@
-# Sprint #3
+# Sprint #6
 
-> Tūngia te ururua, kia tupu whakaritorito te tupu o te harakeke<br>
-> *Clear the undergrowth so the new shoots of the flax will grow* <br>  
+> Nahau te rourou<br>
+> Naku te rourou<br>
+> Ka ora ai te manuhere<br>
+> *With your basket of knowledge*<br>
+> *And my basket of knowledge*<br>
+> *The people will prosper*<br>
+>
 
 ## Wow.
-New Zealand's very own crowdfunding app, [pledgeme](https://www.pledgeme.co.nz/)
+Have a play with [this - **warning, contains flashing images**](http://www.staggeringbeauty.com/). It's built with a JavaScript framework called Paper.js
 
-## Habits
-
+## Habits  
 <!-- learn > develop > practice -->
-1. *Reflection*
-2. *Tidy*      
-4. **Play**    
+1. Reflect
+2. Tidy
+3. Play
+5. *Persevere*
+6. *Explore*
+6. **Communicate**
 
+Web developers need excellent communication skills - for working together on problems, sharing difficulties, finding solutions, managing client and manager expectations, building systems that talk to each other, and writing readable code.  
+Good communication leads to good relationships, less stress and better work. This course is an excellent chance for you to work on your communication skills - you'll need them at every step.
 
-**Play** is the habit of staying curious and creative. To learn challenging concepts and solve the complex problems you'll face, you'll need to fully engage yourself, try new things and **not be afraid of failure**.
-> Play is the highest form of research. — Albert Einstein
+>That which we are capable of feeling, we are capable of saying. — Cervantes
 
 ## Concepts
-This sprint, you'll be learning some design skills to ensure you're building something useful with all your awesome new HTML and CSS skills.
 
 Number | Name | Rough estimated time (hrs)*
 --------|-------------------|----------
-1. | [Design](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/design) | 3
-2. | [Frameworks](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/frameworks) | 30 mins
-3. | [Process over product](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/process-over-product) | 15 mins
-4. | [7 rules for creating gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.juh0bpuk3) | 30 mins
-5. | Assignments (see below) | 10
+1. | [Process over product](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/process-over-product) | 15 mins
+2. | Assignments (see below) | 15 hours
+
 
 ## Assignments and resources
 Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**

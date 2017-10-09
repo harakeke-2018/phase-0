@@ -16,7 +16,7 @@ Your journey is your own. There are no grades and there is no competition. Give 
 When times get tough, keep going. Reach out to us and your cohort and you will be supported. There is no shame in not knowing something and there is so much to gain from sharing your experience.
 
 ## Wow.
-Every sprint we'll show you something inspiring. By the end of the couse, you'll be able to both dream up and build similar projects.
+Every sprint we'll show you something inspiring. By the end of the course, you'll be able to both dream up and build similar projects.
 [Actionstation](http://www.actionstation.org.nz/about) was built by the Enspiral network to enable the large community of Kiwis with shared progressive values to take powerful, coordinated action on urgent issues we care about.
 
 ## Habits

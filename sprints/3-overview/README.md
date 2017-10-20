@@ -3,13 +3,21 @@
 > Tūngia te ururua, kia tupu whakaritorito te tupu o te harakeke<br>
 > *Clear the undergrowth so the new shoots of the flax will grow* <br>  
 
+<<<<<<< HEAD
 ## Wow. 
+=======
+## Wow.
+>>>>>>> d4226bd7cc60c9d377476709b2094c71f5babfa5
 New Zealand's very own crowdfunding app, [pledgeme](https://www.pledgeme.co.nz/)
 
 ## Habits
 
 <!-- learn > develop > practice -->
+<<<<<<< HEAD
 1. *Reflection* 
+=======
+1. *Reflection*
+>>>>>>> d4226bd7cc60c9d377476709b2094c71f5babfa5
 2. *Tidy*      
 4. **Play**    
 
@@ -37,6 +45,7 @@ In some cases, if you feel confident about the weekly concepts, you can skip str
 ## Next steps
 1. Read the concepts and their respective capabilities
 2. Check out your assignments on the waffle board
+<<<<<<< HEAD
 3. Dive into the resources and develop your capabilities (linked from within the concepts)
 4. Complete the assignments
 
@@ -45,3 +54,18 @@ In some cases, if you feel confident about the weekly concepts, you can skip str
 - Move each of your assignments to the "Review" list in Waffle.io as you complete them
 - Complete all tasks and have assignments ready for review by midnight Sunday
 - Email your facilitator if you might be exceeding the assignment grace limit
+=======
+3. Complete the assignments!
+4. **(Optional)** When convenient, Dive into the resources to develop your capabilities (linked from within the concepts)
+
+## Handing in your work
+- Check off all tasks within the assignments in Waffle.io as you complete them
+- Move each of your assignments to the "Done" column in Waffle.io as you complete them
+- Make sure you post a link to your completed work in the comments of the waffle ticket!
+
+## Blocked
+- If you find yourself blocked on a task, add a comment describing the error / problems you are having with the specific task, and move it to the "Blocked" column on Waffle.io
+- Send your facilitator a message on slack if you don't hear from them within a day or so
+- Move on to another task if possible, rather than waiting and not achieving anything
+- Ask for help in your cohorts slack channel, someone will surely be willing to help you out!
+>>>>>>> d4226bd7cc60c9d377476709b2094c71f5babfa5

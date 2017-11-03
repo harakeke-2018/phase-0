@@ -5,7 +5,11 @@
 
 
 ## Wow.
+<<<<<<< HEAD
 >what happens if you put a div in a div in a div in a div in a ..., each one increasing in size by 1px? - Eugene Lynch. 
+=======
+>what happens if you put a div in a div in a div in a div in a ..., each one increasing in size by 1px? - Eugene Lynch.
+>>>>>>> d4226bd7cc60c9d377476709b2094c71f5babfa5
 
 Eugene's raindrops have temporarily disappeared from the Interwebs, but you can see a similar sort of thing [here](https://eda-demos.herokuapp.com/raindrops).
 
@@ -18,7 +22,11 @@ Eugene's raindrops have temporarily disappeared from the Interwebs, but you can 
 **Tidy** is the habit of keeping your code clean. If the project you are working on is successful, it is inevitable that you, or other people will work with it in the future. If you leave a mess, it is going to be very time and energy consuming to work with as it evolves in the future.
 
 ## Concepts
+<<<<<<< HEAD
 **NOTE: This is a big sprint and we expect it will overflow a little into next week. Be steady, timebox your assignments and know that next week, there will be less material and the chance to catch up.** 
+=======
+**NOTE: This is a big sprint and we expect it will overflow a little into next week. Be steady, timebox your assignments and know that next week, there will be less material and the chance to catch up.**
+>>>>>>> d4226bd7cc60c9d377476709b2094c71f5babfa5
 
 This sprint's concepts are delivered through Udacity - an educational organisation offering massive open online courses (MOOCs).
 Udacity offer an excellent introduction to using HTML, CSS and the DOM in their "not your typical Web Dev" course. The majority of the work for this week is in the course - unless you're already proficient, in which case you should work on the stretch material.
@@ -40,6 +48,7 @@ In some cases, if you feel confident about the weekly concepts, you can skip str
 ## Next steps
 1. Read the concepts and their respective capabilities
 2. Check out your assignments on the waffle board
+<<<<<<< HEAD
 3. Dive into the resources and develop your capabilities (linked from within the concepts)
 4. Complete the assignments
 
@@ -48,3 +57,18 @@ In some cases, if you feel confident about the weekly concepts, you can skip str
 - Move each of your assignments to the "Submitted to EDA" list in Waffle.io as you complete them
 - Complete all tasks and have assignments ready for review by midnight Sunday
 - Email your facilitator if you might be exceeding the assignment grace limit.
+=======
+3. Complete the assignments!
+4. **(Optional)** When convenient, Dive into the resources to develop your capabilities (linked from within the concepts)
+
+## Handing in your work
+- Check off all tasks within the assignments in Waffle.io as you complete them
+- Move each of your assignments to the "Done" column in Waffle.io as you complete them
+- Make sure you post a link to your completed work in the comments of the waffle ticket!
+
+## Blocked
+- If you find yourself blocked on a task, add a comment describing the error / problems you are having with the specific task, and move it to the "Blocked" column on Waffle.io
+- Send your facilitator a message on slack if you don't hear from them within a day or so
+- Move on to another task if possible, rather than waiting and not achieving anything
+- Ask for help in your cohorts slack channel, someone will surely be willing to help you out!
+>>>>>>> d4226bd7cc60c9d377476709b2094c71f5babfa5

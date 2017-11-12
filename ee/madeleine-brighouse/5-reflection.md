@@ -1,5 +1,5 @@
 What did I do well this week?
-This week, well this past two and a half weeks. I have managed my stress levels well, even tho I've fallen behind study wise.
+I managed to get more work done in a shorter time frame this week, which was epic!
 
- What could I have done to improve?
-Again I can work better on-time management but mostly on my typing practice and atom shortcuts. And meditating every day (i've been forgetting now and then).
+What could I have done to improve?
+balancing my life. so I'm still social and being creative while still get my work done in away that is less stressful. 

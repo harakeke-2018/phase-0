@@ -1,0 +1,3 @@
+This week I think I solved a few of the solutions in really good time and often with the correct solution straight off the bat which was pretty cool. I have been a bit slow again but I think I will just have to accept that a week and a half is about how long it will take me to complete each sprint from here on out. I think I solved some problems nicely and I am progressing pretty well.
+
+Missed check in as work has changed my shifts so will do a little check in after this. Otherwise pretty happy with how I am progressing. Hopefully will find a bit more time to practice my typing soon and looking forward to updating some of my html and css on my blog - maybe adding some javascript there for a bit of practice. Just need to find a bit more time to work when I can really. 

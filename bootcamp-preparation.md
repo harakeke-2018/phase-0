@@ -13,6 +13,8 @@ The following list of questions and concepts can be used to self-assess so you'l
   - images (and what is the one attribute you MUST have?)
   - a drop down select form field
   - an input text box form field
+  - a button (there are 2 options - do you know both?)
+* When would you use a radio control versus a checkbox?
 * What are the two main types of HTML elements used inside the `<body>` element (specifically related to styling)?
 
 ## CSS

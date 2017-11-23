@@ -33,7 +33,17 @@ The following list of questions and concepts can be used to self-assess so you'l
 
 * What is the difference between defining a function and calling a function?
 * How do you specify the input parameters of a function?
-* How do you specify what the funtion will return?
+* How do you specify what the function will return?
+* What is the relationship between `name` and `fullName` below:
+
+  ```js
+  function showName (name) {
+    console.info(name)
+  }
+
+  const fullName = 'Mahāttmā Mohandas Karamchand Ghandi'
+  showName(fullName)
+  ```
 
 ### Objects
 

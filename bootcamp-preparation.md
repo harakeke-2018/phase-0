@@ -5,18 +5,20 @@ The following list of questions and concepts can be used to self-assess so you'l
 ## HTML
 
 * What role does HTML play in a web page compared to CSS and JavaScript?
-* What are the parts of an HTML element?
-* What are some HTML elements that don't have a closing part?
-* What are the main parts of a web page and the associated elements?
+* What are the syntax parts of an HTML element?
+* What are some HTML elements that don't have the closing part?
+* What are the HTML elements that make up the basic parts of every web page?
 * What element is used to create:
   - hyperlinks (and what is the one attribute you MUST have?)
   - images (and what is the one attribute you MUST have?)
+  - a drop down select form field
+  - an input text box form field
 * What are the two main types of HTML elements used inside the `<body>` element (specifically related to styling)?
 
 ## CSS
 
 * What role does CSS play in a web page compared to HTML and JavaScript?
-* What are the 3 different ways you can apply styles to a page?
+* What are the 3 different ways you can apply styles to a web page?
 * How would you describe the 'box model'?
 * What is meant by 'cascading' styles in CSS?
 * What is the most common way to apply styles to one or more elements?
@@ -26,7 +28,8 @@ The following list of questions and concepts can be used to self-assess so you'l
 ### Variables
 
 * How do you create a new variable?
-* What is the difference between `var`, `let` and `const`?
+* How do you change the value of an existing variable?
+* What is the difference between `var`, `let` and `const`? And when should you use them?
 * What are the different data types the value of a variable can be?
 
 ### Functions
@@ -43,6 +46,18 @@ The following list of questions and concepts can be used to self-assess so you'l
 
   const fullName = 'Mahāttmā Mohandas Karamchand Ghandi'
   showName(fullName)
+  ```
+* In the following code snippet, which variable(s) are available to `console.log` on line 8?
+
+  ```js
+  1  var foo = 1
+  2  const bar = 'yo!'
+  3  function setup (config) {
+  4    const cfg = config
+  5    var baz = {}
+  6    let bin = 56
+  7  }
+  8  console.log()
   ```
 
 ### Objects

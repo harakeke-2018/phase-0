@@ -2,20 +2,66 @@
 
 The following list of questions and concepts can be used to self-assess so you'll know what to work on while preparing for bootcamp.
 
+> In order to get the most learning out of this tool, do not display the answer right away. Think about it, do some searches, and have an opinion _before_ you verify your answer.
+
 ## HTML
 
 * What role does HTML play in a web page compared to CSS and JavaScript?
+  <details>
+    <summary>Verify your answer</summary>
+    **HTML provides the structure ... the scaffolding for the page. Like our body's skeletal system.**
+  </details>
 * What are the syntax parts of an HTML element?
-* What are some HTML elements that don't have the closing part?
+  <details>
+    <summary>Verify your answer</summary>
+    **The opening tag, the attribute's name and value, the contents of the element, and the closing tag: `<opening name="value">contents</closing>` Some are optional depending on the element.**
+  </details>
 * What are the HTML elements that make up the basic parts of every web page?
+  <details>
+    <summary>Verify your answer</summary>
+    **`<html>`, `<head>`, and `<body>` If you listed more, cool!**
+  </details>
+* What are some HTML elements that don't have the closing part?
+  <details>
+    <summary>Verify your answer</summary>
+    **Some of the popular ones are `<img>`, `<input>`, `<br>`, `<hr>`, `<link>`, and `<meta>`, but there are more.**
+  </details>
 * What element is used to create:
-  - hyperlinks (and what is the one attribute you MUST have?)
-  - images (and what is the one attribute you MUST have?)
-  - a drop down select form field
-  - an input text box form field
-  - a button (there are 2 options - do you know both?)
+    - Hyperlinks (and what is the one attribute you **must** have?)
+      <details>
+        <summary>Verify your answer</summary>
+        **`<a>` and the `href` attribute (e.g. `<a href="/home">Go home</a>`).**
+      </details>
+    - Images (and what is the one attribute you **must** have?)
+      <details>
+        <summary>Verify your answer</summary>
+        **`<img>` and the `src` attribute (e.g. `<img src="/images/logo.png">`).**
+      </details>
+    - A drop down select form field
+      <details>
+        <summary>Verify your answer</summary>
+        **The `<select>` element with an `<option>` element for each option.**
+      </details>
+    - An input text box form field
+      <details>
+        <summary>Verify your answer</summary>
+        **`<input>` If you answered `<input type="text">` that's fine, but `text` is the default value for the `type` attribute so you really don't need it.**
+      </details>
+    - A button (there are 2 options - do you know both?)
+      <details>
+        <summary>Verify your answer</summary>
+        **`<button>`, `<input type="button">` or `<input type="submit">`**
+      </details>
 * When would you use a radio control versus a checkbox?
-* What are the two main types of HTML elements used inside the `<body>` element (specifically related to styling)?
+  <details>
+    <summary>Verify your answer</summary>
+    **A radio control is used when the user can only select a single option. A checkbox is used when they can choose more than one option.**
+  </details>
+* What are the two main types of HTML elements used inside the `<body>` element (specifically related to styling)? What are some of the examples of each?
+  <details>
+    <summary>Verify your answer</summary>
+    **Inline elements such as `<i>` and `<img>`. Block-level elements such as `<div>` and `<p>`.**
+  </details>
 
 ## CSS
 

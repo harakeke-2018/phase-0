@@ -1,6 +1,6 @@
 What did I do well this week?
 
-I'm focussing on being kinder and more honest to myself regarding my wellbeing, paying closer attention to habits that are not-so-great and working to change them positively. Exercising, getting enough sleep and reading (many) books make up a new routine that has been helping me through depression and avoidant behaviours.
+I have been paying closer attention to my own habits that are not-so-great and working to change them positively. Exercising, getting enough sleep and reading (many) books make up a new routine that has been helping me through depression and avoidant behaviours — things that have been holding me back from fulling committing the time I have now to Dev Academy. Accomplishments for this week are more so emotional than technical; I've found only some of the work technically challenging, which has been nice.
 
 What could I have done to improve?
 

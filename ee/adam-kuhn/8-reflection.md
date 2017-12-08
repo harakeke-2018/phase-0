@@ -1,0 +1,5 @@
+What did I do well this week?
+I made an effort to comment on my code as i went about with the assignment. Comments need to better and more concise but it's a step in the right direction. I did most of my work without access to internet (not by choice) and I'm happy that I was able to create a functional calculator with minimal background research...Peter did tell me about the eval() function that essential rendered most of my code useless and fixed my problem though. Which is both great and a little dis heartening because of how simple that solution was. But it was a quick change to my code and then my calc was working exactly like I wanted.
+
+What could I have done to improve?
+Working more constantly throughout the week. Again the weekdays were full and I was forced to do most of this assignment today (sunday). I didn't put my fullest effort into refactoring my calc code as i'm pretty burnt out. I played around with a few ideas but overall nothing I did worked out. May come back to this and try again. I'd also like to update the CSS on my calc as well.

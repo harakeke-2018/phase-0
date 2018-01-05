@@ -1,0 +1,4 @@
+What did I do well through my nine weeks in Phase 0?
+I felt that I had a good balance of setting aside time to do my work and get the assignments done. I was only working full-time for a portion of the course so it was easier to manage my time when I wasn't working. But I think I managed it well even once I did begin to work. I also think I did a good job have trying new concepts out and playing around with the code, to get an understanding of what actually is going on.
+
+What could I have done to improve through my nine weeks in Phase 0? I could have been better at mindfulness. I go through phases it seems where I manage to do it every day, then I forget it for a week. I also need to get better at stepping away from the computer if I am stuck on something for too long, rather than trying to power through the problem.

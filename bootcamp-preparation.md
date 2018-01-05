@@ -38,35 +38,35 @@ The following list of questions and concepts can be used to self-assess so you'l
     - Hyperlinks (and what is the one attribute you **must** have?)
       <details>
         <summary>Verify your answer</summary>
-        
+
         **`<a>` and the `href` attribute (e.g. `<a href="/home">Go home</a>`).**
 
       </details>
     - Images (and what is the one attribute you **must** have?)
       <details>
         <summary>Verify your answer</summary>
-        
+
         **`<img>` and the `src` attribute (e.g. `<img src="/images/logo.png">`).**
 
       </details>
     - A drop down select form field
       <details>
         <summary>Verify your answer</summary>
-        
+
         **The `<select>` element with an `<option>` element for each option.**
 
       </details>
     - An input text box form field
       <details>
         <summary>Verify your answer</summary>
-        
+
         **`<input>` If you answered `<input type="text">` that's fine, but `text` is the default value for the `type` attribute so you really don't need it.**
 
       </details>
     - A button (there are 2 options - do you know both?)
       <details>
         <summary>Verify your answer</summary>
-        
+
         **`<button>`, `<input type="button">` or `<input type="submit">`**
 
       </details>
